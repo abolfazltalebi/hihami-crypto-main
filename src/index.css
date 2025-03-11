@@ -66,6 +66,9 @@
       max-width: 1536px;
     }
   }
+  .bg-footer{
+    background-image: url('/src/assets/images/footer-background.webp');
+  }
 }
 @layer utilities {
   .hover-header {
