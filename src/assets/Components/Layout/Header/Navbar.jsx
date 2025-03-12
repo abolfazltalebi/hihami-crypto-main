@@ -3,7 +3,7 @@ import { NavbarItem } from "../../../../constants/NavbarItem";
 
 function Navbar({ closeMenu }) { 
   return (
-    <nav>
+    <nav> 
       <ul className="md:flex md:space-x-4 space-y-6 md:space-y-0">
         {NavbarItem.map((navItem) => {
           return (
