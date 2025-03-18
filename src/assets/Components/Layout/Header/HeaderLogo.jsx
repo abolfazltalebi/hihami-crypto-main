@@ -4,7 +4,7 @@ export default function HeaderLogo() {
   return (
     <div>
       <Link to='/'>
-        <img src={headerLogo} alt="" />
+        <img src={headerLogo} className="size-18" alt="" />
       </Link>
     </div>
   )

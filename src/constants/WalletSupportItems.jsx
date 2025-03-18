@@ -10,5 +10,4 @@ export const WalletSupportItem = [
   { id: 3, name: "Trust Wallet", img: TrustWallet },
   { id: 4, name: "Alpha", img: Alpha },
   { id: 5, name: "CoinGecko", img: CoinGecko },
-  { id: 6, name: "CoinGecko", img: CoinGecko },
 ];

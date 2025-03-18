@@ -69,6 +69,12 @@
   .bg-footer{
     background-image: url('/src/assets/images/footer-background.webp');
   }
+  .bg-herosection{
+    background-image: url('/src/assets/images/milky-way.webp');
+    background-size:contain;
+    background-repeat:no-repeat;
+    background-position:bottom;
+  }
 }
 @layer utilities {
   .hover-header {
